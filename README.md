@@ -1,4 +1,4 @@
-# shop_app2
+# Flutter-Shop-App
 
 A new Flutter application.
 
